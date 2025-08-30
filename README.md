@@ -8,13 +8,7 @@
 
 ###
 
-<div align="center">
-  <img height="21" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-###
-
-<h4 align="center">👾Full-Stack Software Engineer👾</h4>
+<h3 align="center">👾Full-Stack Software Engineer👾</h3>
 
 ###
 
@@ -24,7 +18,13 @@
 
 ###
 
-<h3 align="center">🚀 About Me</h3>
+<div align="center">
+  <img height="21" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+###
+
+<h2 align="center">🚀 About Me</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
